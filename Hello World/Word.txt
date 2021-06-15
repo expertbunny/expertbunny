@@ -1,0 +1,58 @@
+                                            LOGICALS OPERATIONS
+
+if it's hot
+    It's a hot day 
+    Drink plenty of water
+otherwise
+    if it's cold
+    It's a cold day
+    Wear warm clothes
+otherwise 
+    It's a lovely day
+
+if applicant has high income AND-OR good credits:
+    Eligiable for loan
+
+if applicant has high income AND good credits AND doesn't have a criminal record
+
+
+AND: both
+OR: at least one
+NOT:Not of the sentence
+
+                                            COMPARION OPERATIONS
+
+if Temperature is greater than 30
+   it's a hot day
+otherwise if Temperature is less than 10
+   it's a cold day
+otherwise
+    it's neither hot nor cold
+
+ if name is less then 3 characters long
+    name must be at the least 3 characters
+otherwise if it's more than 50 characters
+    name can be maximum of 50 characters
+otherwise
+    name looks good!
+
+Ask the user the weight ask the kilogram or Pounds covert
+kilogram to pound and the pounds by using  / and * to to
+get the weigth into klios and pounds.
+
+                                            While Loops
+
+i = 8
+while i <= 5:
+    print(i)
+    i = i + 1
+  print("Done")
+
+
+
+This is a power of Goods and The and find
+
+
+
++91 6363 340 497
+
